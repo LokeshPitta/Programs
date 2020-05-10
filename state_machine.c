@@ -36,7 +36,8 @@ int main()
 					}
 					else
 					{
-						printf("\nstate not changed : ");
+						printf("\nstate not changed");
+						opt=0;
 					}
 					break;
 		}
